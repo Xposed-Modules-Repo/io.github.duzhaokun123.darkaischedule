@@ -1,9 +1,5 @@
 # DarkAISchedule
 
-小爱课程表暗色支持
+小爱课程表(`com.xiaomi.aischedule`)暗色支持
 
-## 已知问题
-
-- 登录失效
-- 状态栏不正常
-- `getUserInfo error, retry`反复重试可能增加耗电
+仅测试于`1.1.0`版本
